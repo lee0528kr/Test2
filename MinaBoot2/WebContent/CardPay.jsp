@@ -47,7 +47,7 @@
 <div class="container" align="center">
 	<table>
 		<tr>
-			<th>이름</th>
+			<th></th>
 			<td style="padding: 10px;">
 				<input type="text" class="name" name="name">
 			</td>
