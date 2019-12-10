@@ -84,7 +84,7 @@
   <option value="slide">Slide</option>
 </select>
  
-<button id="button" class="ui-state-default ui-corner-all">Run Effect</button>
+<button id="button" class="ui-state-default ui-corner-all">Run Effect_yerim</button>
  
  
 </body>
